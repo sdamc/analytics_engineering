@@ -26,3 +26,37 @@ It is to read several articles weekly to stay updated on what other AEs are thin
 
 **Portfolio:** [Portfolio](https://github.com/sdamc/gdelt_data_vault) 
 
+## 📰 Weekly Article Compilation & Notes
+
+### 🎯 Goal
+
+Like many data professionals, I subscribe to dozens of newsletters. Over time, the sheer volume creates "newsletter overload"—making it tough to separate high-signal insights from background noise. 
+
+This compilation serves as my personal filter. Each week, I curate **2 to 3 stand-out articles** that provided real value, paired with my own commentary and practical takeaways as a Senior Analytics Engineer.
+
+---
+
+### 🌐 Why English?
+
+The vast majority of the data and AI newsletters I read are published in English. Writing in English allows me to keep the commentary natural to the original source material while connecting with a broader, global analytics community.
+
+---
+
+### 📋 Issue Format
+
+Every weekly issue breaks down 2 to 3 featured articles using the following structure:
+
+* **📌 Title:** [Article Title]
+* **👤 Author / Source:** [Author Name & Newsletter Title]
+* **🎯 Subject:** [1–2 sentence summary of the core topic]
+* **💡 My Take:** [Personal insight, key takeaway, or real-world application]
+* **🔗 Link:** [Direct link to the original article / discussion]
+
+---
+
+### 🗓️ Weekly Archive & LinkedIn Discussions
+
+| Week | Key Topics Covered | LinkedIn Post |
+| :--- | :--- | :--- |
+| **Week 01** | *Coming Soon* | *[Link]* |
+| **Week 02** | *Coming Soon* | *[Link]* |
